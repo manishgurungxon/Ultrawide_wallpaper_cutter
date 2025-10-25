@@ -1,0 +1,49 @@
+# LICENSE.txt
+
+```
+MIT License
+
+Copyright (c) 2025 VNepal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+# README Disclaimer
+
+## Ownership & Licensing
+This repository contains source code for the **Ultrawide Wallpaper Cutter App**, a Python Streamlit application created by VNepal. The app processes images and can optionally generate AI-extended wallpapers using open-source diffusion models.
+
+### Code License
+- The Python code is released under the **MIT License** (see `LICENSE.txt`).
+- You are free to use, modify, and distribute this code for both personal and commercial purposes, provided that the MIT License text and attribution remain intact.
+
+### Restrictions
+- Do not use this software or its outputs for illegal, harmful, or deceptive purposes.
+- Do not redistribute the Stable Diffusion model weights under your own license.
+
+### Credits
+- **Libraries:** Streamlit, Pillow, OpenCV, Diffusers, Torch
+- **Developer:** VNepal
+
+---
+
+## Summary
+This README ensures your app remains compliant and transparent while allowing full commercial use of your own outputs.
