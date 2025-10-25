@@ -86,5 +86,36 @@ This project is licensed under the MIT License — see LICENSE.txt
 You fully own all wallpapers generated with this app, as long as your uploaded images are your own.
 
 🧩 Folder Structure
+```bash
+📦 ultrawide-wallpaper-cutter
+ ┣ 📜 app.py
+ ┣ 📜 run_app.py
+ ┣ 📜 LICENSE.txt
+ ┣ 📜 README.md
+ ┣ 📜 requirements.txt
+ ┗ 📁 dist/  (optional for installer builds)
+```
+🧠 Roadmap
+ 
+ 1) Manual drag-to-crop feature
 
+ 2) Preset manager for specific monitors
 
+ 3) Color-profile aware exports
+
+ 4) Wallpaper auto-applier (Windows integration)
+
+---
+👤 Author
+
+VNepal
+
+---
+💬 Feedback
+If you like this project:
+
+⭐ Star it on GitHub
+
+🐛 Report issues via the “Issues” tab
+
+💡 Suggest features to make ultrawide wallpapers even better!
