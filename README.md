@@ -61,3 +61,5 @@ You can choose between **Fill**, **Fit**, and **Outpaint-Lite** modes to achieve
 ```bash
 git clone https://github.com/yourusername/ultrawide-wallpaper-cutter.git
 cd ultrawide-wallpaper-cutter
+python -m venv .venv
+source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
