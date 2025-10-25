@@ -71,5 +71,20 @@ source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
 ### 3️⃣ Install dependencies
 ```bash
 pip install streamlit pillow opencv-python-headless numpy
+```
+### Run the App
+```bash
+streamlit run app2v2.py
+```
+Then open your browser at 👉 http://localhost:8501
+---
+⚖️ License
+
+This project is licensed under the MIT License — see LICENSE.txt
+ for details.
+
+You fully own all wallpapers generated with this app, as long as your uploaded images are your own.
+
+🧩 Folder Structure
 
 
