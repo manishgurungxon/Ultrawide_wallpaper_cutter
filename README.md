@@ -58,10 +58,20 @@ You can choose between **Fill**, **Fit**, and **Outpaint-Lite** modes to achieve
 ## 💻 Installation
 
 ### 1️⃣ Clone the repository
-
+```bash
 git clone https://github.com/yourusername/ultrawide-wallpaper-cutter.git
 cd ultrawide-wallpaper-cutter
-
-### 2️⃣ Create a virtual environment
+2️⃣ Create a virtual environment
+bash
+Copy code
 python -m venv .venv
 source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
+3️⃣ Install dependencies
+bash
+Copy code
+pip install streamlit pillow opencv-python-headless numpy
+🏃 Run the App
+bash
+Copy code
+streamlit run app.py
+Then open your browser at 👉 http://localhost:8501
