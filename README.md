@@ -58,7 +58,7 @@ You can choose between **Fill**, **Fit**, and **Outpaint-Lite** modes to achieve
 ## 💻 Installation
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/yourusername/ultrawide-wallpaper-cutter.git
 cd ultrawide-wallpaper-cutter
 
